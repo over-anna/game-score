@@ -7,7 +7,7 @@ export function recordGarfieldHighScore() {
   if (!player) {
     return {
       success: false,
-      message: 'No player saved yet. Please save Garfield first.'
+      message: 'No player saved yet. Please save Anna first.'
     };
   }
 
